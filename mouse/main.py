@@ -116,5 +116,4 @@ while True:
 #5 finger close=>scroll up
 #liitle finger close =>scroll down
 #index,middle,ring finger up=>right click
-#index,middle=>left click                                                  MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/<dbname>?retryWrites=true&w=majority
-PORT=5000
+#index,middle=>left click                                                  
